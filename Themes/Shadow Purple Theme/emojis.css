@@ -1,0 +1,64 @@
+/*
+					 ==========================
+					 Copyright © 2020 SenkaWolf
+					 ==========================
+*/
+
+body {
+    background: 0c0c0c; }
+
+.emojiButton {
+	background-color: #0c0c0c;
+	border: none;
+	color: white;
+	width: 36px;
+	height: 36px;
+	padding: 2px 2px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	-webkit-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+	cursor: pointer;
+	background-color: #0c0c0c; 
+	color: #ffffff; 
+	border: 2px solid #0c0c0c; }
+
+.emojiButton:hover {
+	background-color: #ffffff;
+	color: #000000; }
+	
+/*
+    ▒  
+    ▒                                __
+    ▒                              .d$$b
+    ▒                            .' TO$;\
+    ▒                           /  : TP._;
+    ▒                          / _.;  :Tb|
+    ▒                         /   /   ;j$j
+    ▒                     _.-"       d$$$$
+    ▒                   .' ..       d$$$$;
+    ▒                  /  /P'      d$$$$P. |\
+    ▒                 /   "      .d$$$P' |\^"l
+    ▒               .'           `T$P^"""""  :
+    ▒           ._.'      _.'                ;
+    ▒        `-.-".-'-' ._.       _.-"    .-"
+    ▒      `.-" _____  ._              .-"
+    ▒     -(.g$$$$$$$b.              .'
+    ▒       ""^^T$$$P^)            .(:
+    ▒         _/  -"  /.'         /:/;
+    ▒      ._.'-'`-'  ")/         /;/;
+    ▒   `-.-"..--""   " /         /  ;
+    ▒  .-" ..--""        -'          :
+    ▒  ..--""--.-"         (\      .-(\
+    ▒    ..--""              `-\(\/;`
+    ▒      _.                      :
+    ▒                              ;`-
+    ▒                             :\
+    ▒                             ; 
+    ▒  
+    ▒     Created by SenkaWolf
+    ▒
+*/
